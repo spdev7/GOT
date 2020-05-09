@@ -1,0 +1,39 @@
+battle_number,name,region,location,battle_type,attacker_king,attacker_1,attacker_commander,attacker_outcome,defender_king,defender_1,defender_commander
+1,Battle of the Golden Tooth,The Westerlands,Golden Tooth,pitched battle,Joffrey/Tommen Baratheon,Lannister,Jaime Lannister,win,Robb Stark,Tully,"Clement Piper, Vance"
+2,Battle at the Mummer's Ford,The Riverlands,Mummer's Ford,ambush,Joffrey/Tommen Baratheon,Lannister,Gregor Clegane,win,Robb Stark,Baratheon,Beric Dondarrion
+3,Battle of Riverrun,The Riverlands,Riverrun,pitched battle,Joffrey/Tommen Baratheon,Lannister,"Jaime Lannister, Andros Brax",win,Robb Stark,Tully,"Edmure Tully, Tytos Blackwood"
+4,Battle of the Green Fork,The Riverlands,Green Fork,pitched battle,Robb Stark,Stark,"Roose Bolton, Wylis Manderly, Medger Cerwyn, Harrion Karstark, Halys Hornwood",loss,Joffrey/Tommen Baratheon,Lannister,"Tywin Lannister, Gregor Clegane, Kevan Lannister, Addam Marbrand"
+5,Battle of the Whispering Wood,The Riverlands,Whispering Wood,ambush,Robb Stark,Stark,"Robb Stark, Brynden Tully",win,Joffrey/Tommen Baratheon,Lannister,Jaime Lannister
+6,Battle of the Camps,The Riverlands,Riverrun,ambush,Robb Stark,Stark,"Robb Stark, Tytos Blackwood, Brynden Tully",win,Joffrey/Tommen Baratheon,Lannister,"Lord Andros Brax, Forley Prester"
+7,Sack of Darry,The Riverlands,Darry,pitched battle,Joffrey/Tommen Baratheon,Lannister,Gregor Clegane,win,Robb Stark,Darry,Lyman Darry
+8,Battle of Moat Cailin,The North,Moat Cailin,pitched battle,Balon/Euron Greyjoy,Greyjoy,Victarion Greyjoy,win,Robb Stark,Stark,
+9,Battle of Deepwood Motte,The North,Deepwood Motte,siege,Balon/Euron Greyjoy,Greyjoy,Asha Greyjoy,win,Robb Stark,Stark,
+10,Battle of the Stony Shore,The North,Stony Shore,ambush,Balon/Euron Greyjoy,Greyjoy,Theon Greyjoy,win,Robb Stark,Stark,
+11,Battle of Torrhen's Square,The North,Torrhen's Square,pitched battle,Robb Stark,Stark,"Rodrik Cassel, Cley Cerwyn",win,Balon/Euron Greyjoy,Greyjoy,Dagmer Cleftjaw
+12,Battle of Winterfell,The North,Winterfell,ambush,Balon/Euron Greyjoy,Greyjoy,Theon Greyjoy,win,Robb Stark,Stark,Bran Stark
+13,Sack of Torrhen's Square,The North,Torrhen's Square,siege,Balon/Euron Greyjoy,Greyjoy,Dagmer Cleftjaw,win,Balon/Euron Greyjoy,Stark,
+14,Sack of Winterfell,The North,Winterfell,ambush,Joffrey/Tommen Baratheon,Bolton,"Ramsay Snow, Theon Greyjoy ",win,Robb Stark,Stark,"Rodrik Cassel, Cley Cerwyn, Leobald Tallhart"
+15,Battle of Oxcross,The Westerlands,Oxcross,ambush,Robb Stark,Stark,"Robb Stark, Brynden Tully",win,Joffrey/Tommen Baratheon,Lannister,"Stafford Lannister, Roland Crakehall, Antario Jast"
+16,Siege of Storm's End,The Stormlands,Storm's End,siege,Stannis Baratheon,Baratheon,"Stannis Baratheon, Davos Seaworth",win,Renly Baratheon,Baratheon,"Renly Baratheon, Cortnay Penrose, Loras Tyrell, Randyll Tarly, Mathis Rowan"
+17,Battle of the Fords,The Riverlands,Red Fork,pitched battle,Joffrey/Tommen Baratheon,Lannister,"Tywin Lannister, Flement Brax, Gregor Clegane, Addam Marbrand, Lyle Crakehall, Leo Lefford",loss,Robb Stark,Tully,"Edmure Tully, Jason Mallister, Karyl Vance"
+18,Sack of Harrenhal,The Riverlands,Harrenhal,ambush,Robb Stark,Stark,"Roose Bolton, Vargo Hoat, Robett Glover",win,Joffrey/Tommen Baratheon,Lannister,Amory Lorch
+19,Battle of the Crag,The Westerlands,Crag,ambush,Robb Stark,Stark,"Robb Stark, Smalljon Umber, Black Walder Frey",win,Joffrey/Tommen Baratheon,Lannister,Rolph Spicer
+20,Battle of the Blackwater,The Crownlands,King's Landing,pitched battle,Stannis Baratheon,Baratheon,"Stannis Baratheon, Imry Florent, Guyard Morrigen, Rolland Storm, Salladhor Saan, Davos Seaworth",loss,Joffrey/Tommen Baratheon,Lannister,"Tyrion Lannister, Jacelyn Bywater, Sandor Clegane, Tywin Lannister, Garlan Tyrell, Mace Tyrell, Randyll Tarly"
+21,Siege of Darry,The Riverlands,Darry,siege,Robb Stark,Darry,Helman Tallhart,win,Joffrey/Tommen Baratheon,Lannister,
+22,Battle of Duskendale,The Crownlands,Duskendale,pitched battle,Robb Stark,Stark,"Robertt Glover, Helman Tallhart",loss,Joffrey/Tommen Baratheon,Lannister,"Randyll Tarly, Gregor Clegane"
+23,Battle of the Burning Septry,The Riverlands,,pitched battle,,Brotherhood without Banners,,win,,Brave Companions,
+24,Battle of the Ruby Ford,The Riverlands,Ruby Ford,pitched battle,Joffrey/Tommen Baratheon,Lannister,Gregor Clegane,win,Robb Stark,Stark,"Roose Bolton, Wylis Manderly"
+25,Retaking of Harrenhal,The Riverlands,Harrenhal,pitched battle,Joffrey/Tommen Baratheon,Lannister,Gregor Clegane,win,,Brave Companions,Vargo Hoat
+26,The Red Wedding,The Riverlands,The Twins,ambush,Joffrey/Tommen Baratheon,Frey,"Walder Frey, Roose Bolton, Walder Rivers",win,Robb Stark,Stark,Robb Stark
+27,Siege of Seagard,The Riverlands,Seagard,siege,Robb Stark,Frey,Walder Frey,win,Joffrey/Tommen Baratheon,Mallister,Jason Mallister
+28,Battle of Castle Black,Beyond the Wall,Castle Black,siege,Stannis Baratheon,Free folk,"Mance Rayder, Tormund Giantsbane, Harma Dogshead, Magnar Styr, Varamyr",loss,Mance Rayder,Night's Watch,"Stannis Baratheon, Jon Snow, Donal Noye, Cotter Pyke"
+29,Fall of Moat Cailin,The North,Moat Cailin,siege,Joffrey/Tommen Baratheon,Bolton,Ramsey Bolton,win,Balon/Euron Greyjoy,Greyjoy,
+30,Sack of Saltpans,The Riverlands,Saltpans,razing,,Brave Companions,Rorge,win,,,
+31,Retaking of Deepwood Motte,The North,Deepwood Motte,pitched battle,Stannis Baratheon,Baratheon,"Stannis Baratheon, Alysane Mormot",win,Balon/Euron Greyjoy,Greyjoy,Asha Greyjoy
+32,Battle of the Shield Islands,The Reach,Shield Islands,pitched battle,Balon/Euron Greyjoy,Greyjoy,"Euron Greyjoy, Victarion Greyjoy",win,Joffrey/Tommen Baratheon,Tyrell,
+33,"Invasion of Ryamsport, Vinetown, and Starfish Harbor",The Reach,"Ryamsport, Vinetown, Starfish Harbor",razing,Balon/Euron Greyjoy,Greyjoy,"Euron Greyjoy, Victarion Greyjoy",win,Joffrey/Tommen Baratheon,Tyrell,
+34,Second Seige of Storm's End,The Stormlands,Storm's End,siege,Joffrey/Tommen Baratheon,Baratheon,"Mace Tyrell, Mathis Rowan",win,Stannis Baratheon,Baratheon,Gilbert Farring
+35,Siege of Dragonstone,The Stormlands,Dragonstone,siege,Joffrey/Tommen Baratheon,Baratheon,"Loras Tyrell, Raxter Redwyne",win,Stannis Baratheon,Baratheon,Rolland Storm
+36,Siege of Riverrun,The Riverlands,Riverrun,siege,Joffrey/Tommen Baratheon,Lannister,"Daven Lannister, Ryman Fey, Jaime Lannister",win,Robb Stark,Tully,Brynden Tully
+37,Siege of Raventree,The Riverlands,Raventree,siege,Joffrey/Tommen Baratheon,Bracken,"Jonos Bracken, Jaime Lannister",win,Robb Stark,Blackwood,Tytos Blackwood
+38,Siege of Winterfell,The North,Winterfell,,Stannis Baratheon,Baratheon,Stannis Baratheon,,Joffrey/Tommen Baratheon,Bolton,Roose Bolton

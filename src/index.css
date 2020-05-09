@@ -1,0 +1,10 @@
+.parentbox{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem !important;
+}
+.textbox {
+    background-image: linear-gradient(to left,white,grey);
+}
