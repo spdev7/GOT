@@ -3,7 +3,7 @@ var router = express.Router();
 let Setup = require('../modal/setup.modal');
 
 
-router.route('/search').get((req,res) => {
+router.route('/api/search').get((req,res) => {
     Setup.find(req.query)
     .then(user => res.send(user))
     .catch(err => res.status(400).json('Error: '+err))

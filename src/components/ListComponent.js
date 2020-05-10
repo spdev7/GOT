@@ -6,7 +6,7 @@ const ListComponent = () => {
 
   useEffect(() => {
     async function fetchData() {
-      const rec = await fetch("/list");
+      const rec = await fetch("/api/list");
       const data = await rec.json();
       setContent(
         data.map((ele) => {

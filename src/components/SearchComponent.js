@@ -105,7 +105,7 @@ class SearchComponent extends Component {
     s.value = item;
 
     // CALL API
-    fetch(`/search?location=${item}`)
+    fetch(`/api/search?location=${item}`)
       .then((res) => res.json())
       .then((items) => this.setState({ response: items }));
   }
@@ -116,7 +116,7 @@ class SearchComponent extends Component {
     var s = document.getElementById("search");
     s.value = decodeURI(item);
 
-    fetch(`/search?location=${item}`)
+    fetch(`/api/search?location=${item}`)
       .then((res) => res.json())
       .then((items) => this.setState({ response: items }));
   }
